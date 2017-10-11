@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Yarn Integrity file
+.yarn-integrity
+.lock
+
+# dotenv environment variables file
+.env
